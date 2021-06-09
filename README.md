@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khajamainuddinpitpit
-- 👀 I’m interested in Full stack development
+- 👀 I’m interested in Full stack developer
 - 🌱 I’m currently learning Full stack by using python 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @mainuddinorange@gmail.com
